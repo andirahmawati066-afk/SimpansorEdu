@@ -1,0 +1,6 @@
+{
+  "name": "SIMPANSOR EDU",
+  "description": "Sistem Pembelajaran Interaktif Sensor & Arduino untuk Siswa dan Guru SMP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
